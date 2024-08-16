@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Luke</h1>
 <h3 align="center">A CS student at Georgia Tech</h3>
 
--  I’m currently learning **various new programming languages, linear algebra, & multivariable**
+-  I’m currently learning **various new programming languages & technologies**
 
 -  I’m looking to collaborate on **projects with other students**
 
