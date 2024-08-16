@@ -1,15 +1,13 @@
 <h1 align="center">Hi, I'm Luke</h1>
 <h3 align="center">A CS student at Georgia Tech</h3>
 
--  I’m currently learning **various new programming languages & technologies**
+-  I’m currently learning various new programming languages & technologies
 
--  I’m looking to collaborate on **projects with other students**
+-  I’m looking to collaborate on projects with other students
 
--  I’m looking for help with **working on large scale projects, databases, & frameworks**
+-  I’m looking for help with working on large scale projects, databases, & frameworks
 
 -  How to reach me **ljennings33@gatech.edu**
-
--  Fun fact **I can play the spoons**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
